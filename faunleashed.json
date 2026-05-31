@@ -1,0 +1,10 @@
+{
+  "id": "faunleashed",
+  "name": "FA Unleashed",
+  "version": "0.1.0",
+  "minecraftVersion": "1.20.1",
+  "modLoader": "forge",
+  "modLoaderVersion": "47.2.0",
+  "files": [],
+  "_note": "Server coming soon — files will be added before launch"
+}
