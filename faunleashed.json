@@ -1,10 +1,64 @@
 {
   "id": "faunleashed",
   "name": "FA Unleashed",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.2.0",
-  "files": [],
-  "_note": "Server coming soon — files will be added before launch"
+  "files": [
+    {
+      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
+      "sha256": "3756bed8a2b8b2a45fd8ba8aab2be54b0ea3d2e258819426f65e00a5f83ef4d9",
+      "size": 10846030
+    },
+    {
+      "name": "entityculling-forge-1.10.2-mc1.20.1.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/entityculling-forge-1.10.2-mc1.20.1.jar",
+      "sha256": "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0",
+      "size": 1587585
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
+      "name": "fexrweapons2-1.0-SNAPSHOT.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/fexrweapons2-1.0-SNAPSHOT.jar",
+      "sha256": "8696f6caf73789042bbadb8ec42bffc7f91cc7030818068bd9bac83dfc32be49",
+      "size": 211083
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "size": 1039046
+    },
+    {
+      "name": "mine-mine-no-mi-1.20.1-0.11.2.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/mine-mine-no-mi-1.20.1-0.11.2.jar",
+      "sha256": "a390cf0ff3611cc71a843bb37843f6909ffa6478633c274a4186132f614567e0",
+      "size": 21419552
+    },
+    {
+      "name": "modernfix-forge-5.27.12+mc1.20.1.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/modernfix-forge-5.27.12+mc1.20.1.jar",
+      "sha256": "982d2606286a027b37b6ae9ff3cde3821bbc7d1cee9178f43ce093c6b3e91b35",
+      "size": 945136
+    },
+    {
+      "name": "ToroHealth-Unofficial-Forge-1.20.1-1.0.0.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/ToroHealth-Unofficial-Forge-1.20.1-1.0.0.jar",
+      "sha256": "e414261eeecc132a47892be1a149a1cc691f87f1dab1b495f3980b9bb93782a5",
+      "size": 104544
+    },
+    {
+      "name": "Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar",
+      "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fa-unleashed/Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar",
+      "sha256": "8a9a2031255ffa5fb16f7ce4d2649c5ae3d940c401e720cc8210c497e555d43d",
+      "size": 11098300
+    }
+  ]
 }
