@@ -1,11 +1,12 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.2.0",
   "files": [
+    { "name": "AdminTrollPanel-1.20.1-Forge-1.0.0-refined-v2.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/AdminTrollPanel-1.20.1-Forge-1.0.0-refined-v2.jar", "sha256": "27e2659e4ef42b39bd5fd0d7cfc9ccc3e57b302d3677b987c6c6d3ab6a015965", "size": 61495, "path": "mods/", "editable": false },
     { "name": "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/alekiNiftyShips-FORGE-1.20.1-1.0.14.jar", "sha256": "cc77374010d9e951219a05a904062f1a3bf411dc58275ab06543984aa0048254", "size": 22335232, "path": "mods/", "editable": false },
     { "name": "alexsdelight-1.5.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/alexsdelight-1.5.jar", "sha256": "439da92c904959e805c2237ebda9e96db60870dd3b58b4b402547d494fa0057a", "size": 55398, "path": "mods/", "editable": false },
     { "name": "alexsmobs-1.22.9.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/alexsmobs-1.22.9.jar", "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c", "size": 26350793, "path": "mods/", "editable": false },
@@ -83,3 +84,4 @@
     { "name": "Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar", "sha256": "fca2fa8a85bdcff07f6dedc47e30ca7f46c8cd9d8fed7393411669f6465305ee", "size": 11126495, "path": "mods/", "editable": false }
   ]
 }
+
