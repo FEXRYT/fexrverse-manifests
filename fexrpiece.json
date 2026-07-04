@@ -1,7 +1,7 @@
 ﻿{
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -35,7 +35,7 @@
     { "name": "FarmersDelight-1.20.1-1.3.2.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/FarmersDelight-1.20.1-1.3.2.jar", "sha256": "47aed94bb9192c4978fe199f9d3ca5895aeccfbe5b5a0869fdf3aa011c2641f7", "size": 3313327, "path": "mods/", "editable": false },
     { "name": "ferritecore-6.0.1-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/ferritecore-6.0.1-forge.jar", "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54", "size": 123034, "path": "mods/", "editable": false },
     { "name": "fexralloc-1.0.10-qol.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexralloc-1.0.10-qol.jar", "sha256": "32aabf9f82f2885c1c9445dfe697f85ddf6be40ce06eb9802af7054b51620aba", "size": 92284, "path": "mods/", "editable": false },
-    { "name": "fexrnika.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrnika.jar", "sha256": "5647691c8151f5ca377f0109c07c9624cb1d2819a1a7ed73cd4b26125790cd24", "size": 83958354, "path": "mods/", "editable": false },
+    { "name": "fexrnika.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrnika.jar", "sha256": "e761ce9ff17f1f4f9d237211dba566b6f4eb42740a532a0abbf83e59a84d6145", "size": 83957397, "path": "mods/", "editable": false },
     { "name": "fexrpiece_visuals-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiece_visuals-1.0.0.jar", "sha256": "86da417e941327d31c5846f90e38430a94d0b1dd3cd5811f8e5c76f8ac8dab98", "size": 8052558, "path": "mods/", "editable": false },
     { "name": "fexrpiecenav-1.0.14.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.14.jar", "sha256": "9e5e81cf181da87ff601f136b2cc1ceb6867086555ded4df4649328b12d4295c", "size": 3076984, "path": "mods/", "editable": false },
     { "name": "fexrzukimods-2.12-patched-test17.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.12-patched-test17.jar", "sha256": "0e529989cd28505925b005c121da2ad650e2e37894e2f9f745fd8212f0361315", "size": 24538282, "path": "mods/", "editable": false },
