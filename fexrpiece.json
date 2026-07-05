@@ -1,7 +1,7 @@
 ﻿{
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -57,7 +57,7 @@
     { "name": "mine-mine-no-mi-1.20.1-0.11.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/mine-mine-no-mi-1.20.1-0.11.4.jar", "sha256": "655bab9db3ff5ab7b0e04a412a83c72b811630cdef3a9ea5969520e9e9c28673", "size": 21447705, "path": "mods/", "editable": false },
     { "name": "modernfix-forge-5.27.58+mc1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/modernfix-forge-5.27.58+mc1.20.1.jar", "sha256": "f44b48000387398bae450814c78cb2fb483a5608d50a64d27d944d1797f0637f", "size": 990660, "path": "mods/", "editable": false },
     { "name": "moogs_structures-1.20-1.20.4-3.0.0-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/moogs_structures-1.20-1.20.4-3.0.0-forge.jar", "sha256": "68292a7b98f08d9023f3491638e107875dd2a0575d21f8362d6aa4efe4653c1f", "size": 338369, "path": "mods/", "editable": false },
-    { "name": "MoogsVoyagerStructures-1.20-5.0.6.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/MoogsVoyagerStructures-1.20-5.0.6.jar", "sha256": "0e9f5c1b13714f408bc0e6f992cc05dba33fcec032a4cca590999f666fe3563b", "size": 1564157, "path": "mods/", "editable": false },
+    { "name": "MoogsVoyagerStructures-1.20-5.0.7.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/MoogsVoyagerStructures-1.20-5.0.7.jar", "sha256": "44ad93d3ac57896ba42c923d639e53e4e624c7f58f31c110856509112c80cee3", "size": 1372813, "path": "mods/", "editable": false },
     { "name": "moonlight-1.20-2.16.34-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/moonlight-1.20-2.16.34-forge.jar", "sha256": "007c05ae799417ca7aa26669c5d97be9dface5b6fc27aca4ca8031cafe4ddd6e", "size": 1419416, "path": "mods/", "editable": false },
     { "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/MouseTweaks-forge-mc1.20.1-2.25.1.jar", "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08", "size": 76237, "path": "mods/", "editable": false },
     { "name": "nirvana-forge-1.2.5.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/nirvana-forge-1.2.5.jar", "sha256": "b0736a2b9f551ff2cdd976ade088ac1bd0635b3b10d037e548ef30924aed78e4", "size": 2771950, "path": "mods/", "editable": false },
