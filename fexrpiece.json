@@ -1,7 +1,7 @@
 ﻿{
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -38,7 +38,7 @@
     { "name": "fexrpiece_visuals-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiece_visuals-1.0.0.jar", "sha256": "bac28cd490f2e8935a7e6d8e6084afc8545531f6b0f4eafaf43fa453379272d6", "size": 8052602, "path": "mods/", "editable": false },
     { "name": "fexrpiecenav-1.0.23.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.23.jar", "sha256": "8eeeb3ce046968018e098571ccee5e5abe043d47f2eb7441c3e6318b8c56e5cf", "size": 3117385, "path": "mods/", "editable": false },
     { "name": "fexrzukimods-2.14.5.FN-release.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.14.5.FN-release.jar", "sha256": "8bf4579451b3d345470fddff6397b99d99ffc5c9817a496b34867eb743c67e9d", "size": 24530578, "path": "mods/", "editable": false },
-    { "name": "fpgacha-1.0.0-72slots-holograms.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpgacha-1.0.0-72slots-holograms.jar", "sha256": "ab4916b75bb0759d8d862ee9de47ef51d3400e9907a7f356c3901da6abf1e399", "size": 704942, "path": "mods/", "editable": false },
+    { "name": "fpgacha-1.0.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpgacha-1.0.1.jar", "sha256": "60b802e08da4ed59299d7654b383550ec9e1a95c02410d8bfcf27041ab44e824", "size": 706780, "path": "mods/", "editable": false },
     { "name": "fpranked-0.1.0-all.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpranked-0.1.0-all.jar", "sha256": "bc8ccbf33c1d8433932c5bda8e868bc8d2e5fbcd6658dbf2a5180bfca7c3ce20", "size": 1083548, "path": "mods/", "editable": false },
     { "name": "geckolib-forge-1.20.1-4.8.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/geckolib-forge-1.20.1-4.8.4.jar", "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747", "size": 1038209, "path": "mods/", "editable": false },
     { "name": "hakibar-1.20.1-1.10.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/hakibar-1.20.1-1.10.jar", "sha256": "07553d677e13f80a994d20674f841a8ab3b3c784e62e12f82b7bd057c98edc23", "size": 29348, "path": "mods/", "editable": false },
