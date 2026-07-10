@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.17",
+  "version": "1.2.18",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -40,7 +40,7 @@
     { "name": "fexrpiecenav-1.0.34.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.34.jar", "sha256": "d2a079c1e5552597dbeca7e270ee1a92851586fc7d1ab69fb90e471f646ad98f", "size": 3165833, "path": "mods/", "editable": false },
     { "name": "fexrzukimods-2.15.FN-release.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.15.FN-release.jar", "sha256": "a1b38266fd84f5318a46a1107e076b5240d84d8af7e474952d4ac235ff3d38ae", "size": 26549040, "path": "mods/", "editable": false },
     { "name": "fpgacha-1.0.9.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpgacha-1.0.9.jar", "sha256": "042a025cf65e28d9f3c0ccf97d645f055c6518b5a74bf3d4a1ab913133b59f99", "size": 710063, "path": "mods/", "editable": false },
-    { "name": "fpranked-0.1.0-all.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpranked-0.1.0-all.jar", "sha256": "4f4edd4ebddcfe31cc51506c10eef00224f3f14554e871dd0cd5847a2afc04f5", "size": 1294665, "path": "mods/", "editable": false },
+    { "name": "fpranked-0.1.0-all.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpranked-0.1.0-all.jar", "sha256": "0a4e4a3b1beb00846eb0951966b59825627ccc3a943c57b310270d8d8c37fab5", "size": 1299977, "path": "mods/", "editable": false },
     { "name": "geckolib-forge-1.20.1-4.8.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/geckolib-forge-1.20.1-4.8.4.jar", "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747", "size": 1038209, "path": "mods/", "editable": false },
     { "name": "hakibar-1.20.1-1.10.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/hakibar-1.20.1-1.10.jar", "sha256": "07553d677e13f80a994d20674f841a8ab3b3c784e62e12f82b7bd057c98edc23", "size": 29348, "path": "mods/", "editable": false },
     { "name": "hutheeraofpirates-0.1.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/hutheeraofpirates-0.1.0.jar", "sha256": "a8cb574fff87f25c123f7ea2ec91c5ff656c80f9968f130a85825fe4d2afd5c8", "size": 1309289, "path": "mods/", "editable": false },
