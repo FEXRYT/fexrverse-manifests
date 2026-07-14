@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.26",
+  "version": "1.2.27",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -37,7 +37,7 @@
     { "name": "fexralloc-1.0.12.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexralloc-1.0.12.jar", "sha256": "4a2a792bbb9e9a978f00fcc10b5a456c5e436642e32eb153ec48d6115bbf962e", "size": 97640, "path": "mods/", "editable": false },
     { "name": "fexrnika.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrnika.jar", "sha256": "ce328ba3314e46fff5dffcd2b0cc5d0446f3b09784db47c15760f580cadeea94", "size": 83986584, "path": "mods/", "editable": false },
     { "name": "fexrpiece_visuals-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiece_visuals-1.0.0.jar", "sha256": "8ade72cd49beacf27b1da5c972d261b72421f6d9c7238b2cd367f2731273f4bf", "size": 8052593, "path": "mods/", "editable": false },
-    { "name": "fexrpiecenav-1.0.36.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.36.jar", "sha256": "9932618b99446b2c402f31b8bc2f7d9a35bda2fad5e754fcbcbf33410c322c40", "size": 3170353, "path": "mods/", "editable": false },
+    { "name": "fexrpiecenav-1.0.37.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.37.jar", "sha256": "8b67ecc869ed6c61f4f0bd29e71fbae4124cd07476041d9254e4a2887d17a4c1", "size": 3170356, "path": "mods/", "editable": false },
     { "name": "fexrzukimods-2.15.5.FN-release.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.15.5.FN-release.jar", "sha256": "08142bcad886fd2eb6f6307027dfb8e98a16c3048fecc343f3ae0386a10c3f72", "size": 26552013, "path": "mods/", "editable": false },
     { "name": "fpgacha-1.0.9.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpgacha-1.0.9.jar", "sha256": "042a025cf65e28d9f3c0ccf97d645f055c6518b5a74bf3d4a1ab913133b59f99", "size": 710063, "path": "mods/", "editable": false },
     { "name": "fpranked-0.1.0-all.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpranked-0.1.0-all.jar", "sha256": "08c10fbff48e1cf741591b4a4ab1930bbeaae16f1d897eef098232ded37e43c4", "size": 1319562, "path": "mods/", "editable": false },
