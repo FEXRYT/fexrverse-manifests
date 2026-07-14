@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.24",
+  "version": "1.2.25",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -86,7 +86,7 @@
     { "name": "YungsApi-1.20-Forge-4.0.6.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/YungsApi-1.20-Forge-4.0.6.jar", "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1", "size": 370524, "path": "mods/", "editable": false },
     { "name": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar", "sha256": "b799668cbbc0903e885f5b638119d0221186e5dbfe812eaf391f86ab8a97bd42", "size": 13014967, "path": "mods/", "editable": false },
     { "name": "ZaysAccom-1.20.1-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/ZaysAccom-1.20.1-1.0.0.jar", "sha256": "3ed44e263c730151dcbc7e4e30c5f02ca43c1ee08e8c906a5544685fa57f9518", "size": 3310795, "path": "mods/", "editable": false },
-    { "name": "Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.3.jar", "sha256": "638f573b63f5dde062461ae1e1fc714ee230db9c7915437d966d644ab0bcbdf5", "size": 11165536, "path": "mods/", "editable": false },
+    { "name": "Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.4-imu-xebec.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.4-imu-xebec.jar", "sha256": "49f13fdb77d14dbec023a1b0ec2ef7bcb3d9b39e322a7992ac53bbadcacc9f46", "size": 11326516, "path": "mods/", "editable": false },
     { "name": "BSL_v8.4.zip", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-shaders/BSL_v8.4.zip", "sha256": "f57821c6f0d744ca72b41d3ad9762452e53d5b0eb3a888c0636ad29b7d0d1548", "size": 1105442, "path": "shaderpacks/", "editable": false },
     { "name": "Sildurs-Vibrant-Shaders-v1.51-Extreme-VL.zip", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-shaders/Sildurs-Vibrant-Shaders-v1.51-Extreme-VL.zip", "sha256": "2c88fa2ad00e9006c4bc469fb3438376345b00fa31adad0d716a12a72cce182b", "size": 142239, "path": "shaderpacks/", "editable": false },
     { "name": "oculus.properties", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-config/oculus.properties", "sha256": "4687e607a8179fd2119ee018ce1fc992d5b64f3ca126b684bcb157264a472008", "size": 564, "path": "config/", "editable": true },
