@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.32",
+  "version": "1.2.35",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -63,7 +63,7 @@
     { "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/MouseTweaks-forge-mc1.20.1-2.25.1.jar", "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08", "size": 76237, "path": "mods/", "editable": false },
     { "name": "nirvana-forge-1.2.5.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/nirvana-forge-1.2.5.jar", "sha256": "b0736a2b9f551ff2cdd976ade088ac1bd0635b3b10d037e548ef30924aed78e4", "size": 2771950, "path": "mods/", "editable": false },
     { "name": "oculus-mc1.20.1-1.8.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/oculus-mc1.20.1-1.8.0.jar", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef", "size": 2851119, "path": "mods/", "editable": false },
-    { "name": "onepiecedripweapons-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/onepiecedripweapons-1.0.0.jar", "sha256": "b770220afb2654c99383ad6ead6e05c306a116a20b5b5fdee38a64b4a8ab1bdb", "size": 43358, "path": "mods/", "editable": false },
+    { "name": "onepiecedripweapons-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/onepiecedripweapons-1.0.0.jar", "sha256": "878980a6e5bed3370bbffc96f169b147cafb78b30337a80d7928562a0f6cea14", "size": 43054, "path": "mods/", "editable": false },
     { "name": "packetfixer-3.3.2-1.18-1.20.4-merged.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/packetfixer-3.3.2-1.18-1.20.4-merged.jar", "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce", "size": 188661, "path": "mods/", "editable": false },
     { "name": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/PickUpNotifier-v8.0.0-1.20.1-Forge.jar", "sha256": "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d", "size": 102164, "path": "mods/", "editable": false },
     { "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/player-animation-lib-forge-1.0.2-rc1+1.20.jar", "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691", "size": 181437, "path": "mods/", "editable": false },
