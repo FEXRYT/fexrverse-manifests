@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.43",
+  "version": "1.2.44",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -39,7 +39,7 @@
     { "name": "fexrnika.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrnika.jar", "sha256": "ce7f3e6e8ea2d1f073450f8940351614274188e85afeef811c357e4d66719836", "size": 84905815, "path": "mods/", "editable": false },
     { "name": "fexrpiece_visuals-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiece_visuals-1.0.0.jar", "sha256": "8ade72cd49beacf27b1da5c972d261b72421f6d9c7238b2cd367f2731273f4bf", "size": 8052593, "path": "mods/", "editable": false },
     { "name": "fexrpiecenav-1.0.38.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrpiecenav-1.0.38.jar", "sha256": "484669b1186f5ad0eae5d5e74bcaaa4375b07e820b09b2b1ff9cc196f211f01e", "size": 3173995, "path": "mods/", "editable": false },
-    { "name": "fexrzukimods-2.15.5.FN-release.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.15.5.FN-release.jar", "sha256": "08142bcad886fd2eb6f6307027dfb8e98a16c3048fecc343f3ae0386a10c3f72", "size": 26552013, "path": "mods/", "editable": false },
+    { "name": "fexrzukimods-2.16.FN-release.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fexrzukimods-2.16.FN-release.jar", "sha256": "f76c109016a5a9ae3e63b8ad925708e470211c75b981164e13370a710346dc04", "size": 26630321, "path": "mods/", "editable": false },
     { "name": "fpgacha-1.1.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpgacha-1.1.0.jar", "sha256": "f586b3fae83829db1a611edaa29f0f7552319d7ae9a5ae336a6d8f6a2cc21efc", "size": 711819, "path": "mods/", "editable": false },
     { "name": "fpranked-0.1.0-all.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/fpranked-0.1.0-all.jar", "sha256": "691f20ec20bffc9f293077f774aba50311a280aa28cd045649d88f854774d9c3", "size": 1320506, "path": "mods/", "editable": false },
     { "name": "geckolib-forge-1.20.1-4.8.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/geckolib-forge-1.20.1-4.8.4.jar", "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747", "size": 1038209, "path": "mods/", "editable": false },
