@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.47",
+  "version": "1.2.48",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -45,7 +45,6 @@
     { "name": "geckolib-forge-1.20.1-4.8.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/geckolib-forge-1.20.1-4.8.4.jar", "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747", "size": 1038209, "path": "mods/", "editable": false },
     { "name": "hakibar-1.20.1-1.10.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/hakibar-1.20.1-1.10.jar", "sha256": "07553d677e13f80a994d20674f841a8ab3b3c784e62e12f82b7bd057c98edc23", "size": 29348, "path": "mods/", "editable": false },
     { "name": "hutheeraofpirates-0.1.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/hutheeraofpirates-0.1.0.jar", "sha256": "a8cb574fff87f25c123f7ea2ec91c5ff656c80f9968f130a85825fe4d2afd5c8", "size": 1309289, "path": "mods/", "editable": false },
-    { "name": "IBEEditor-1.20-2.2.8-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/IBEEditor-1.20-2.2.8-forge.jar", "sha256": "8bceaa2c6c263a6019fa0a45145c15a28056fd2466dcf27a9805f6233557f53c", "size": 974923, "path": "mods/", "editable": false },
     { "name": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/ImmediatelyFast-Forge-1.5.5+1.20.4.jar", "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035", "size": 532063, "path": "mods/", "editable": false },
     { "name": "immersive_paintings-0.6.13+1.20.1-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/immersive_paintings-0.6.13+1.20.1-forge.jar", "sha256": "069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633", "size": 4856103, "path": "mods/", "editable": false },
     { "name": "itemblacklist-1.20.1-1.1.5.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/itemblacklist-1.20.1-1.1.5.jar", "sha256": "d32117ce267746e001bca95ee019a155845ddf29fdb852353a47a055b3bf3011", "size": 41443, "path": "mods/", "editable": false },
