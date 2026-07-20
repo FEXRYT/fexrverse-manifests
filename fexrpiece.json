@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.62",
+  "version": "1.2.63",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -94,6 +94,7 @@
     { "name": "Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.6-tickfix.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Zays-MmnmCnpcsBridged-ABILITIESGALORE-1.0.6-tickfix.jar", "sha256": "bb4db9e4b26828b304da8f187d00c306ba29b44e1cd806e0e4465c642ea3fb9e", "size": 11337328, "path": "mods/", "editable": false },
     { "name": "BSL_v8.4.zip", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-shaders/BSL_v8.4.zip", "sha256": "f57821c6f0d744ca72b41d3ad9762452e53d5b0eb3a888c0636ad29b7d0d1548", "size": 1105442, "path": "shaderpacks/", "editable": false },
     { "name": "Sildurs-Vibrant-Shaders-v1.51-Extreme-VL.zip", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-shaders/Sildurs-Vibrant-Shaders-v1.51-Extreme-VL.zip", "sha256": "2c88fa2ad00e9006c4bc469fb3438376345b00fa31adad0d716a12a72cce182b", "size": 142239, "path": "shaderpacks/", "editable": false },
+    { "name": "DistantHorizons.toml", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-config/DistantHorizons.toml", "sha256": "c4b62acfca57a43d0e50e4d00d49dfc052b621af7270e8e5cb64dafd522646f4", "size": 37019, "path": "config/", "editable": true },
     { "name": "oculus.properties", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-config/oculus.properties", "sha256": "4687e607a8179fd2119ee018ce1fc992d5b64f3ca126b684bcb157264a472008", "size": 564, "path": "config/", "editable": true },
     { "name": "1.20.1-forge-47.4.20.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-forge/versions/1.20.1-forge-47.4.20/1.20.1-forge-47.4.20.jar", "sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f", "size": 23028853, "path": "versions/1.20.1-forge-47.4.20/", "editable": false },
     { "name": "1.20.1-forge-47.4.20.json", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece-forge/versions/1.20.1-forge-47.4.20/1.20.1-forge-47.4.20.json", "sha256": "6696209263fbc493be099b36e1fc25f463cb5ba641068153fd015e42f230c689", "size": 14739, "path": "versions/1.20.1-forge-47.4.20/", "editable": false },
