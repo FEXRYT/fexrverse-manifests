@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.61",
+  "version": "1.2.62",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -56,6 +56,7 @@
     { "name": "lootintegrations-1.20.1-4.7.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/lootintegrations-1.20.1-4.7.jar", "sha256": "88dc2701f90c04a4fa343be11ea0c21cbda1d675cba514f201946dcd8eae17ea", "size": 42220, "path": "mods/", "editable": false },
     { "name": "lootr-forge-1.20-0.7.35.94.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/lootr-forge-1.20-0.7.35.94.jar", "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51", "size": 463485, "path": "mods/", "editable": false },
     { "name": "luffymod-0.2.0-protected.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/luffymod-0.2.0-protected.jar", "sha256": "9fb914f93d11eb3ec266e9ef2090b63b7eb9362697c4bb1db9b79b1c5ae3c97e", "size": 88075582, "path": "mods/", "editable": false },
+    { "name": "minemineextraslots-1.9-1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/minemineextraslots-1.9-1.20.1.jar", "sha256": "68f6b5395cd0bc3ceddf2fc012ecb2095e5258f9f3c23846ae67c43f9f12ed1d", "size": 38215, "path": "mods/", "editable": false },
     { "name": "mine-mine-no-mi-1.20.1-0.11.4-tickfix2.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/mine-mine-no-mi-1.20.1-0.11.4-tickfix2.jar", "sha256": "dc0fa318ce29dbe228d0e0d343740af7f8e5587a3b69f8b68e3ca933a6d33cb2", "size": 21447914, "path": "mods/", "editable": false },
     { "name": "modernfix-forge-5.27.66+mc1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/modernfix-forge-5.27.66+mc1.20.1.jar", "sha256": "7db0c735b9037937757dcc9d40e0b6e2dee5f01336096e1a3a2a371ed0cfda4d", "size": 1002234, "path": "mods/", "editable": false },
     { "name": "moogs_structures-1.20-1.20.4-3.0.2-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/moogs_structures-1.20-1.20.4-3.0.2-forge.jar", "sha256": "a06c6a15a38d37a5ddb5f325ec6487ed223575f1080e3106b902168ae1130f00", "size": 338402, "path": "mods/", "editable": false },
