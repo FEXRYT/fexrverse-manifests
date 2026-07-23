@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.69",
+  "version": "1.2.70",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -75,6 +75,7 @@
     { "name": "RegionsUnexploredForge-0.5.6+1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/RegionsUnexploredForge-0.5.6+1.20.1.jar", "sha256": "5ba96a83d12c0e2eb3b22c0fa11262ff6d49ba8d2ebd03e1c59ab47ea7dcc2c6", "size": 5726781, "path": "mods/", "editable": false },
     { "name": "rhino-forge-2001.2.3-build.10.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/rhino-forge-2001.2.3-build.10.jar", "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6", "size": 1798244, "path": "mods/", "editable": false },
     { "name": "RUExpansion-1.0.1+1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/RUExpansion-1.0.1+1.20.1.jar", "sha256": "bffe150085f9fbe4ace36b77e27e24dab387cc9b928d22d4644b2b80db6939c3", "size": 567739, "path": "mods/", "editable": false },
+    { "name": "SeaCore-1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/SeaCore-1.20.1.jar", "sha256": "22874a1e6db35cc82c512ee07bb23ff5135cf309305eb506ab35071b8e3bb1e5", "size": 212981, "path": "mods/", "editable": false },
     { "name": "Searchables-forge-1.20.1-1.0.3.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Searchables-forge-1.20.1-1.0.3.jar", "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576", "size": 77732, "path": "mods/", "editable": false },
     { "name": "shopmod-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/shopmod-1.0.0.jar", "sha256": "c87e63c80df47431e5545a84e2c26192482f5effeafa536b651a3e88d067393b", "size": 10284632, "path": "mods/", "editable": false },
     { "name": "sodiumextras-forge-1.0.7-1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/sodiumextras-forge-1.0.7-1.20.1.jar", "sha256": "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df", "size": 438540, "path": "mods/", "editable": false },
