@@ -1,7 +1,7 @@
 {
   "id": "fexrpiece",
   "name": "FexrPiece",
-  "version": "1.2.84",
+  "version": "1.2.85",
   "minecraftVersion": "1.20.1",
   "modLoader": "forge",
   "modLoaderVersion": "47.4.20",
@@ -32,7 +32,7 @@
     { "name": "embeddium-0.3.31+mc1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/embeddium-0.3.31+mc1.20.1.jar", "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb", "size": 1320675, "path": "mods/", "editable": false },
     { "name": "entityculling-forge-1.10.5-mc1.20.1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/entityculling-forge-1.10.5-mc1.20.1.jar", "sha256": "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa", "size": 1590221, "path": "mods/", "editable": false },
     { "name": "eraid-1.0.0.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/eraid-1.0.0.jar", "sha256": "bfb42a568a4147104c6180be5061b1e8d3defb86810f14fdf9dba66d303e0a31", "size": 224923, "path": "mods/", "editable": false },
-    { "name": "Essential_1-4-1_forge_1-20-1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Essential_1-4-1_forge_1-20-1.jar", "sha256": "c2f34440dcfa0b8eb03f859b57f4f70f31ee471934f6d82532bed421168ffb22", "size": 51977010, "path": "mods/", "editable": false },
+    { "name": "Essential_1-4-1-1_forge_1-20-1.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/Essential_1-4-1-1_forge_1-20-1.jar", "sha256": "7482310b7e677f34ca8747ddfee0d67428e6036ea258967f296e766cf897e12e", "size": 51920947, "path": "mods/", "editable": false },
     { "name": "expandability-9.0.4.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/expandability-9.0.4.jar", "sha256": "c1f7c3ba5873bb4797d2124c57bab3189acdb62d02f63217db1456d232dac20f", "size": 80765, "path": "mods/", "editable": false },
     { "name": "FarmersDelight-1.20.1-1.3.2.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/FarmersDelight-1.20.1-1.3.2.jar", "sha256": "47aed94bb9192c4978fe199f9d3ca5895aeccfbe5b5a0869fdf3aa011c2641f7", "size": 3313327, "path": "mods/", "editable": false },
     { "name": "ferritecore-6.0.1-forge.jar", "url": "https://pub-8dafa658341a43ac89dcc117fe427a84.r2.dev/fexrpiece/ferritecore-6.0.1-forge.jar", "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54", "size": 123034, "path": "mods/", "editable": false },
